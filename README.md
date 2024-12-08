@@ -18,9 +18,9 @@ IV. Instructions for use
   ·Burn the project code to the on-point Atomic mini development board.
   ·Connect the TTFLCD capacitive touch screen to ensure that the hardware cable is correct.
   ·Power on, enter the main interface to choose the game to play.
-____________________________________________________________________________________________________________________
+———————————————————————————————————————————————————————————————
 Welcome to experience this project and look forward to your feedback!
-————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————————————
 它包括dinorrunner， BallBettle， TicTacToe这三款游戏。
 一、主界面
 设备通电后，主菜单直观而简单，有四个按钮选项：三个游戏门户和一个“更多游戏”占位符。
@@ -41,5 +41,6 @@ Welcome to experience this project and look forward to your feedback!
 ·连接TTFLCD电容式触摸屏，确保硬件线缆正确。
 ·开机，进入主界面选择要玩的游戏。
 ![image](https://github.com/user-attachments/assets/3c65625c-8f9a-40a6-9b19-07c6d1c28807)
-
+———————————————————————————————————————————————————————————————
 欢迎体验这个项目，并期待您的反馈！
+———————————————————————————————————————————————————————————————
