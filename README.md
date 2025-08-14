@@ -1,5 +1,5 @@
 # emWin-Game-embedded-software-based-on-stm32mini
-它包括dinorrunner， BallBettle， TicTacToe这三款游戏。<br>
+它包括恐龙跑， 球球小作战， 井字棋这三款游戏。<br>
 ## 一、主界面<br>
 设备通电后，主菜单直观而简单，有四个按钮选项：三个游戏门户和一个“更多游戏”占位符。<br>
 ## 二、游戏内容<br>
